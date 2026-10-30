@@ -1,0 +1,18 @@
+docs/usage.md
+  h_1b1bcfcb87141a 194-195
+src/ParameterValue.php
+  h_1b1bcfcb87141a 18,20-21,23-33
+tests/ParameterValueTest.php
+  h_1b1bcfcb87141a 49-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c7b8c5e8daafd501fe42007a1291ff48894be5a2",
+  "prompts": {},
+  "humans": {
+    "h_1b1bcfcb87141a": {
+      "author": "Ruslan Abelkharisov <rabelkharisov@qase.io>"
+    }
+  }
+}
