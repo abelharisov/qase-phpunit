@@ -1,0 +1,23 @@
+src/ParameterValue.php
+  s_de52690cbd1b1d::t_5b9a20beabece3 63-64,67-69
+tests/ParameterValueTest.php
+  s_de52690cbd1b1d::t_5b9a20beabece3 22,24,27,29,34
+composer.lock
+  s_de52690cbd1b1d::t_c083f1b6c0cdfc 7,2750
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8786ad505f4428476737f6f8a365889e1e6548dc",
+  "prompts": {},
+  "sessions": {
+    "s_de52690cbd1b1d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5102bc7b-aba3-4f36-aeb8-2b46cc133bf7",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Ruslan Abelkharisov <rabelkharisov@qase.io>"
+    }
+  }
+}
