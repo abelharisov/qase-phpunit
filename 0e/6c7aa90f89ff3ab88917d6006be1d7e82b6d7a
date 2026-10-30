@@ -1,0 +1,19 @@
+composer.json
+  s_de52690cbd1b1d::t_44d3f1fa553a41 37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0e6c7aa90f89ff3ab88917d6006be1d7e82b6d7a",
+  "prompts": {},
+  "sessions": {
+    "s_de52690cbd1b1d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5102bc7b-aba3-4f36-aeb8-2b46cc133bf7",
+        "model": "unknown"
+      },
+      "human_author": "Ruslan Abelkharisov <rabelkharisov@qase.io>"
+    }
+  }
+}
