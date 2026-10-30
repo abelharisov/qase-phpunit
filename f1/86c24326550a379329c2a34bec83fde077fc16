@@ -1,0 +1,25 @@
+docs/usage.md
+  s_de52690cbd1b1d::t_24520e6b4b2851 199-201
+src/ParameterValue.php
+  s_de52690cbd1b1d::t_8ae2b8dcf65d8f 56-74
+src/QaseReporter.php
+  s_de52690cbd1b1d::t_16aed0559b9005 280-284
+tests/ParameterValueTest.php
+  s_de52690cbd1b1d::t_f614421c01e3fa 39-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f186c24326550a379329c2a34bec83fde077fc16",
+  "prompts": {},
+  "sessions": {
+    "s_de52690cbd1b1d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5102bc7b-aba3-4f36-aeb8-2b46cc133bf7",
+        "model": "unknown"
+      },
+      "human_author": "Ruslan Abelkharisov <rabelkharisov@qase.io>"
+    }
+  }
+}
