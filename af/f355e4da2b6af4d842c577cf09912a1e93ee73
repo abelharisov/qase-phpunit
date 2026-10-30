@@ -1,0 +1,19 @@
+composer.lock
+  s_de52690cbd1b1d::t_446acbfbe596fa 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aff355e4da2b6af4d842c577cf09912a1e93ee73",
+  "prompts": {},
+  "sessions": {
+    "s_de52690cbd1b1d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5102bc7b-aba3-4f36-aeb8-2b46cc133bf7",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Ruslan Abelkharisov <rabelkharisov@qase.io>"
+    }
+  }
+}
