@@ -1,0 +1,23 @@
+docs/usage.md
+  s_de52690cbd1b1d::t_f30ad2c8edd5a7 15,185-198
+src/ParameterValue.php
+  s_de52690cbd1b1d::t_cb2d3f4ed555ef 43,55-80
+tests/ParameterValueTest.php
+  s_de52690cbd1b1d::t_0c7b0d0e429a17 22,24,27,29-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ece0d9b126a26b34f84069ce6b49077ec038df71",
+  "prompts": {},
+  "sessions": {
+    "s_de52690cbd1b1d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5102bc7b-aba3-4f36-aeb8-2b46cc133bf7",
+        "model": "unknown"
+      },
+      "human_author": "Ruslan Abelkharisov <rabelkharisov@qase.io>"
+    }
+  }
+}
